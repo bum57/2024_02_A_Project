@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MoveTest : MonoBehaviour
 {
+    public Vector3 move;
     // Start is called before the first frame update
     void Start()
     {
